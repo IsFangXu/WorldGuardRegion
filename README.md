@@ -8,7 +8,7 @@ Author: FangXu
 
 The project Development environment info
 <ul>
-    <li>System　: Windows 7</li>
+    <li>System: Windows 7</li>
     <li>Compiler: IntelliJ IDEA</li>
 </ul>
 
