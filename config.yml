@@ -1,0 +1,6 @@
+Settings:
+  #格式: "RegionName Sound SoundCategory"
+  #Sound跟SoundCategory可用"Disable"代表空
+  Sound:
+    - "jail Disable Disable"
+    - "test Disable Disable"
